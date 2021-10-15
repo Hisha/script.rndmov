@@ -1,3 +1,6 @@
+v1.0.2
+- CHanged to Python3
+
 v1.0.1
 - Remove 'EN' from <language> tag in addon.xml
 
